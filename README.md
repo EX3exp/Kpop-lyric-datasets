@@ -1,7 +1,7 @@
 # 🎵 Kpop-lyric-datasets
 
-There are json-formated text datas of 25696 k-pop songs, from **Melon's Monthly Chart Ranking 100 (2000 ~ 2023 Oct.)**. <br>
-Also providing utils for data handling. <br> <br>
+There are json-formated datas of 25696 k-pop songs, which was from **Melon's Monthly Chart Ranking 100 (2000 ~ 2023 Oct.)**. <br>
+Also providing python utilities for data handling. <br> <br>
 *I DO NOT claim any ownership of this dataset, All copyrights belong to the authors, of each song.* <br>
 *You can freely use this dataset on RESEARCH PURPOSE, but if you want to use COMMERCIALLY this dataset, You should Talk with Lyricists, Artists, Composers, etc.*
 <br> <br>
