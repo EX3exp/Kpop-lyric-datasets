@@ -2,9 +2,7 @@
 
 There are json datas derived from 25696 k-pop songs, which was from **Melon's Monthly Chart Ranking 100 (2000 ~ 2023 Oct.)**. <br>
 Also providing utils for data handling. <br> <br>
-
-## ❗0. NOTE
-*I DO NOT claim any ownership of this dataset, All copyrights belong to the authors, of each song.* <br><br>
+*I DO NOT claim any ownership of this dataset, All copyrights belong to the authors, of each song.* <br>
 *You can freely use this dataset on RESEARCH PURPOSE, but if you want to use COMMERCIALLY this dataset, You should Talk with Lyricists, Artists, Composers, etc.*
 <br> <br>
 ## 🤔 1. How to Use
@@ -12,19 +10,20 @@ Clone this repository into your workspace.
 ```Git
 git clone https://github.com/EX3exp/Kpop-lyric-datasets.git
 ```
-<br> <br>
+
 ## 📖 2. Usage
 ### 🤔 A. Getting 2023's whole data into Dictionary
 ```Python
 from utils import data_parser
 your_dict = data_parser.get_dict(2023)
 ```
+
 ### 🤔 B. Getting whole data from 2010 to 2022, into Dataframe(Pandas)
 ```Python
 from utils import data_parser
 your_dataframe = data_parser.get_df(2010, 2022)
 ```
-<br> <br>
+
 ## 📖 3. Structure
 🔽 Introducing data's structure with `melon-monthly_2023-07_16.json` - 🐇 *(Attention - New Jeans).*
 ### 🔖 0. Path of jsons
