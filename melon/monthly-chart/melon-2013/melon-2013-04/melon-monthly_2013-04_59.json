@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2013,
+            "month": 4,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": null,
+    "song_name": "Call Me Maybe",
+    "album": "Call Me Maybe",
+    "release_date": "",
+    "artist": "Carly Rae Jepsen",
+    "genre": "",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

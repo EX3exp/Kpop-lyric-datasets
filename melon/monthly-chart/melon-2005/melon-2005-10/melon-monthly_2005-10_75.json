@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2005,
+            "month": 10,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": null,
+    "song_name": "All The Way",
+    "album": "The Story Goes",
+    "release_date": "",
+    "artist": "Craig David",
+    "genre": "",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

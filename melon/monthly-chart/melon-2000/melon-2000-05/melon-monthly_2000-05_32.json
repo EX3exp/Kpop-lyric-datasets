@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2000,
+            "month": 5,
+            "rank": 32,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "4050182",
+    "song_name": "Cross",
+    "album": "코리안 댄스 탑 40 Vol.1",
+    "release_date": "2000.07.06",
+    "artist": "엄정화",
+    "genre": "댄스",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

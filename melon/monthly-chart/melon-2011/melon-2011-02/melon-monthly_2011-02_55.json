@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2011,
+            "month": 2,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": null,
+    "song_name": "어떻게 니가",
+    "album": "어떻게 니가",
+    "release_date": "",
+    "artist": "배다해",
+    "genre": "",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

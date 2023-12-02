@@ -1,0 +1,51 @@
+{
+    "info": [
+        {
+            "year": 2005,
+            "month": 2,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "708703",
+    "song_name": "L.O.V.E",
+    "album": "슬픈연가 OST",
+    "release_date": "2005.02.04",
+    "artist": "김희선",
+    "genre": "국내드라마, 재즈, 보컬재즈",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 25,
+        "lines": [
+            "L is for the way you look at me",
+            "O if for the only one I see",
+            "V is very very extraordinary",
+            "E is even more than anyone that you adore can",
+            "",
+            "Love is all that I can give to you",
+            "Love is more than just a game for two",
+            "Two in love can make it",
+            "Take my heart and please don't break it",
+            "Love was made for me and you",
+            "",
+            "L is for the way you look at me",
+            "O is for the only one I see",
+            "V is very, very extra-ordinary",
+            "E is even more than",
+            "Anyone that you adore can ",
+            "",
+            "Love is all that I can give to you",
+            "Love is more than just a game for two",
+            "Two-oo in love can make it",
+            "Take my heart and please don't break it",
+            "Love was made for me and you",
+            "",
+            "Love was made for me and you",
+            "Love was made for me and you -"
+        ]
+    }
+}

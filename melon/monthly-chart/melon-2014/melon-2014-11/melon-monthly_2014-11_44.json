@@ -1,0 +1,41 @@
+{
+    "info": [
+        {
+            "year": 2014,
+            "month": 11,
+            "rank": 44,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "5442695",
+    "song_name": "0904",
+    "album": "MISS ME OR DISS ME",
+    "release_date": "2014.11.03",
+    "artist": "MC몽",
+    "genre": "랩/힙합",
+    "lyric_writer": "MC몽",
+    "composer": "BlueBridge",
+    "arranger": "BlueBridge",
+    "lyrics": {
+        "row_num": 15,
+        "lines": [
+            "I found the way to let you leave",
+            "I never really had it coming",
+            "I can't be in the sight of you",
+            "I want you to stay away from my",
+            "heart",
+            "I found the way to let you leave",
+            "I never really had it coming",
+            "I can't be in the sight of you",
+            "I want you to stay away from my",
+            "heart",
+            "I found the way to let you leave",
+            "I never really had it coming",
+            "I can't be in the sight of you",
+            "I want you to stay away from my",
+            "heart"
+        ]
+    }
+}

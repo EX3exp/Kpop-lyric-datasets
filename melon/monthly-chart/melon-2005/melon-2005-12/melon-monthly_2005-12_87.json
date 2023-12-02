@@ -1,0 +1,44 @@
+{
+    "info": [
+        {
+            "year": 2005,
+            "month": 12,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "1023725",
+    "song_name": "We Wish You A Merry Christmas",
+    "album": "Gift",
+    "release_date": "2005.11.24",
+    "artist": "빅마마",
+    "genre": "R&B/Soul",
+    "lyric_writer": "빅마마",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 18,
+        "lines": [
+            "we wish you a merry christmas",
+            "we wish you a merry christmas",
+            "we wish you a merry christmas",
+            "and a happy new year",
+            "",
+            "we wish you a merry christmas",
+            "we wish you a merry christmas",
+            "we wish you a merry christmas",
+            "and a happy new year",
+            "",
+            "glad tidings we bring",
+            "to you and your kin",
+            "we wish you a merry christmas",
+            "and a happy new year",
+            "",
+            "we wish you a merry christmas",
+            "merry christmas",
+            "and a happy new year -"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": [
+        {
+            "year": 2017,
+            "month": 1,
+            "rank": 8,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "30177818",
+    "song_name": "I Miss You",
+    "album": "도깨비 OST Part.7",
+    "release_date": "2016.12.31",
+    "artist": "소유 (SOYOU)",
+    "genre": "발라드, 국내드라마",
+    "lyric_writer": "지훈",
+    "composer": "로코베리",
+    "arranger": "로코(Rocoberry)",
+    "lyrics": {
+        "row_num": 23,
+        "lines": [
+            "바라보면 자꾸 눈물이 나는 건",
+            "왠지 몰라도",
+            "돌고 돌아 내게 오고 있었나요",
+            "피해지지 않는 그 사랑",
+            "I love u love u love u",
+            "인연인 걸 느꼈죠 난",
+            "And I miss u miss u",
+            "나의 운명인 사람",
+            "슬픈 눈빛으로 왜 나를 보나요",
+            "울지 말아요",
+            "한 눈에 날 알아본 건 아닌가요",
+            "이제서야 왜 내게 왔죠",
+            "I love u love u love u",
+            "인연인 걸 느꼈죠 난",
+            "And I miss u miss u",
+            "나의 운명인 사람",
+            "몇 번을 태어난대도",
+            "그대가 어딜 숨어도",
+            "나는 그댈 찾겠죠",
+            "다신 우리 헤어지지 마요",
+            "내 곁에서",
+            "떠나가지 말아요",
+            "떠나가지 말아요"
+        ]
+    }
+}

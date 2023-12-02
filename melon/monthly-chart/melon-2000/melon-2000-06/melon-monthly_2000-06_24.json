@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2000,
+            "month": 6,
+            "rank": 24,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": null,
+    "song_name": "Love",
+    "album": "Will (1집)",
+    "release_date": "",
+    "artist": "윤현석",
+    "genre": "",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

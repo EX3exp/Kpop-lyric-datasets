@@ -1,0 +1,42 @@
+{
+    "info": [
+        {
+            "year": 2017,
+            "month": 11,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "30725490",
+    "song_name": "To Be One (Outro.)",
+    "album": "1-1=0 (NOTHING WITHOUT YOU)",
+    "release_date": "2017.11.13",
+    "artist": "Wanna One (워너원)",
+    "genre": "발라드",
+    "lyric_writer": "별들의 전쟁 (GALACTIKA *)",
+    "composer": "별들의 전쟁 (GALACTIKA *)",
+    "arranger": "아테나 (GALACTIKA *)",
+    "lyrics": {
+        "row_num": 16,
+        "lines": [
+            "보여줄 준비가 됐어",
+            "하나가 된 우리 모습을",
+            "후회 없이 쏟아내고 싶어",
+            "매일이 마지막인 것처럼",
+            "To be one",
+            "Time is runnin' out",
+            "금방 돌아올게",
+            "아직 들려주고 싶은 얘기가 많아",
+            "Time is runnin' out",
+            "조금만 기다려줄래",
+            "보여주고 싶은 것들이 너무 많아",
+            "To be one",
+            "You know what",
+            "We're nothing without you",
+            "We'll be back",
+            "To Be One"
+        ]
+    }
+}

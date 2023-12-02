@@ -1,0 +1,53 @@
+{
+    "info": [
+        {
+            "year": 2014,
+            "month": 10,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "4743566",
+    "song_name": "Like A Fool",
+    "album": "Begin Again - Music From And Inspired By The Original Motion Picture",
+    "release_date": "2014.07.01",
+    "artist": "Keira Knightley",
+    "genre": "POP, 국외영화",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 27,
+        "lines": [
+            "We take a chance",
+            "from time to time",
+            "And put our necks out on the line",
+            "And you have broken every",
+            "promise that we made",
+            "And I have loved you anyway",
+            "Took a fine time to leave me",
+            "hangin' out to dry",
+            "Understand now I'm greivin'",
+            "So don't you waste my time",
+            "Cause you have taken",
+            "All the wind out from my sails",
+            "And I have loved you",
+            "just the same",
+            "We finally find this",
+            "then you're gone",
+            "Been chasin' rainbows all along",
+            "And you have cursed me",
+            "When there's no one",
+            "left to blame",
+            "And I have loved you",
+            "Just the same",
+            "And you have broken",
+            "every single",
+            "fucking rule",
+            "And I have loved you",
+            "like a fool"
+        ]
+    }
+}

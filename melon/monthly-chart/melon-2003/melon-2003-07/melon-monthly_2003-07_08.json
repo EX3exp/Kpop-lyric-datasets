@@ -1,0 +1,55 @@
+{
+    "info": [
+        {
+            "year": 2003,
+            "month": 7,
+            "rank": 8,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "1137829",
+    "song_name": "Try To Remember",
+    "album": "Try To Remember (Special)",
+    "release_date": "2003.05.27",
+    "artist": "성시경",
+    "genre": "발라드",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 29,
+        "lines": [
+            "Try to remember the kind of September",
+            "When life was slow and oh, so mellow",
+            "Try to remember the kind of September",
+            "When grass was green And grain was yellow",
+            "",
+            "Try to remember the kind of September",
+            "When you were a tender And callow fellow",
+            "Try to remember and if you remember",
+            "Then follow, follow",
+            "",
+            "Try to remember When life was so tender",
+            "That no one wept except the willow",
+            "Try to remember when life was so tender",
+            "That dreams were kept beside your pillow",
+            "",
+            "Try to remember the kind of September",
+            "When love was an ember About to billow",
+            "Try to remember and if you remember",
+            "Then follow, follow, follow",
+            "",
+            "Deep in December It's nice to remember",
+            "Although you know The snow will follow",
+            "Deep in December It's nice to remember",
+            "Without the hurt the heart is hollow",
+            "",
+            "Deep in December it's nice to remember",
+            "The fire of September That made us mellow",
+            "Deep in December Our hearts should remember",
+            "then follow, follow, follow -"
+        ]
+    }
+}

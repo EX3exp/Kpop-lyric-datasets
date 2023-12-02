@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2015,
+            "month": 4,
+            "rank": 42,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "5622398",
+    "song_name": "어쩌라고 (So What)",
+    "album": "어쩌라고 (So What)",
+    "release_date": "2015.03.11",
+    "artist": "빈지노 (Beenzino)",
+    "genre": "랩/힙합",
+    "lyric_writer": "빈지노 (Beenzino)",
+    "composer": "PEEJAY",
+    "arranger": "PEEJAY",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

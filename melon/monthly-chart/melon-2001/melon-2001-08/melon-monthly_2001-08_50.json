@@ -1,0 +1,59 @@
+{
+    "info": [
+        {
+            "year": 2001,
+            "month": 8,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "6855",
+    "song_name": "I' ll Be There",
+    "album": "The 4th Album",
+    "release_date": "2001.04.11",
+    "artist": "이브",
+    "genre": "록/메탈",
+    "lyric_writer": "G. 고릴라",
+    "composer": "G. 고릴라",
+    "arranger": "G. 고릴라",
+    "lyrics": {
+        "row_num": 33,
+        "lines": [
+            "I'm so lonely I'm so lonely",
+            "그대 날 떠나간 그날 이후로",
+            "수많은 밤과 슬픈 아픔에도",
+            "너를 잊지못해 나는 혼자인 걸",
+            "그리워도 못잊어도",
+            "두번 다시는 볼 수 없겠죠",
+            "다 아는데도 그리 쉽지 않아",
+            "너를 잊지못해 나는 혼자인걸",
+            "I'll be there",
+            "나에겐 그대 하나 뿐이야",
+            "항상 너만 꿈꾸며 살아가는",
+            "나에게로",
+            "What a feeling I feel love",
+            "너도 알고 있잖아 많은",
+            "날이 지나도",
+            "I'll be there and I'll be",
+            "there and wait for you",
+            "소중한 사랑이란걸 알아",
+            "언젠가 나에게 가르쳐 주고",
+            "이제 나만 혼자 남아",
+            "I can't breath without you",
+            "and I can't live without you",
+            "I'll be there",
+            "나에겐 그대 하나 뿐이야",
+            "항상 너만 꿈꾸며 살아가는",
+            "나에게로",
+            "What a feeling I feel love",
+            "너도 알고 있잖아 많은",
+            "날이 지나도",
+            "I'll be there and I'll be",
+            "there and wait for you",
+            "I'll be there",
+            "I'll be there"
+        ]
+    }
+}

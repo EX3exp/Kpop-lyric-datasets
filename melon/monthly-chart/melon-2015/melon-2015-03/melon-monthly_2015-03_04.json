@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2015,
+            "month": 3,
+            "rank": 4,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "5592623",
+    "song_name": "My Type (Prod. By 버벌진트)",
+    "album": "언프리티 랩스타 Track 3",
+    "release_date": "2015.02.13",
+    "artist": "제시 (Jessi)",
+    "genre": "랩/힙합",
+    "lyric_writer": "제시 (Jessi)",
+    "composer": "치타 (CHEETAH)",
+    "arranger": "버벌진트",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

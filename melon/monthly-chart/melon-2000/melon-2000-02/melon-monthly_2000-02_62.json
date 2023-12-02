@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2000,
+            "month": 2,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "104083",
+    "song_name": "지금은 우리가 멀리 있을지라도",
+    "album": "보내지 못한 편지",
+    "release_date": "1999.09",
+    "artist": "김광민",
+    "genre": "뉴에이지",
+    "lyric_writer": "김광민",
+    "composer": "김광민",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

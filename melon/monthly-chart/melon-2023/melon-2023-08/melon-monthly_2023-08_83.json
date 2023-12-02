@@ -1,0 +1,35 @@
+{
+    "info": [
+        {
+            "year": 2023,
+            "month": 8,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "36635523",
+    "song_name": "Get Up",
+    "album": "NewJeans 2nd EP 'Get Up'",
+    "release_date": "2023.07.21",
+    "artist": "NewJeans",
+    "genre": "댄스",
+    "lyric_writer": "freekind.",
+    "composer": "250",
+    "arranger": "freekind.",
+    "lyrics": {
+        "row_num": 9,
+        "lines": [
+            "Get up",
+            "I don't wanna fight your shadow",
+            "Meet me back in 5 If I matter to you",
+            "Like you say, I do",
+            "",
+            "So, get up",
+            "I don't wanna fight your shadow",
+            "Meet me back in 5 If I matter to you",
+            "Like you say, I do"
+        ]
+    }
+}

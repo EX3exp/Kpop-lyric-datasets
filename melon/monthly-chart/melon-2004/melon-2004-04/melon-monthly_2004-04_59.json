@@ -1,0 +1,34 @@
+{
+    "info": [
+        {
+            "year": 2004,
+            "month": 4,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "4180315",
+    "song_name": "Ave Maria In A Minor (드라마 '천국의 계단' 테마곡)",
+    "album": "여유 네번째 이야기 (세상에서 가장 여유로운 음악)",
+    "release_date": "2013.07.19",
+    "artist": "Charlotte Church",
+    "genre": "POP",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 8,
+        "lines": [
+            "Ave maria, gratia plena",
+            "Dominus tecum benedicta tu in mulieribus",
+            "Et benedictus fructus ventris tuis jesus",
+            "Sancta maria, sancta maria, maria",
+            "Ora pro nobis",
+            "Nobis peccatoribus",
+            "Nunc et in hora, in hora mortis nostrae",
+            "Amen Amen"
+        ]
+    }
+}

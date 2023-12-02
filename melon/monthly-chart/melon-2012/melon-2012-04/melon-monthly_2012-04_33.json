@@ -1,0 +1,52 @@
+{
+    "info": [
+        {
+            "year": 2012,
+            "month": 4,
+            "rank": 33,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "3747899",
+    "song_name": "Over The Rainbow (영화 '오즈의 마법사' OST)",
+    "album": "SBS K팝 스타 Top 7",
+    "release_date": "2012.03.25",
+    "artist": "JAMIE (제이미)",
+    "genre": "발라드",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 26,
+        "lines": [
+            "Somewhere, over the rainbow,",
+            "way up high,",
+            "There's a land that I heard of",
+            "once in a lullaby",
+            "Somewhere over the rainbow",
+            "skies are blue,",
+            "and the dreams that you dare to",
+            "dream really do come true",
+            "Someday I'll wish upon a star",
+            "and wake up",
+            "where the clouds are far behind me",
+            "Where troubles melt",
+            "like lemon drops,",
+            "away above the chimney tops,",
+            "That's where you'll find me",
+            "Somewhere, over the rainbow,",
+            "skies are blue,",
+            "and the dreams that you dare to",
+            "dream really do come true",
+            "Somewhere over the rainbow",
+            "bluebirds fly",
+            "Birds fly over the rainbow,",
+            "Why, then oh why can't I",
+            "If happy little bluebirds",
+            "fly beyond the rainbow",
+            "why, why can't I"
+        ]
+    }
+}

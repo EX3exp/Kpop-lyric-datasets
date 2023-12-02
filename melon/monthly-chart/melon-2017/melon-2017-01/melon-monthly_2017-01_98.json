@@ -1,0 +1,54 @@
+{
+    "info": [
+        {
+            "year": 2017,
+            "month": 1,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "30192354",
+    "song_name": "And I'm here",
+    "album": "도깨비 OST Part.11",
+    "release_date": "2017.01.09",
+    "artist": "김경희",
+    "genre": "국내드라마",
+    "lyric_writer": "김경희",
+    "composer": "남혜승",
+    "arranger": "박상희",
+    "lyrics": {
+        "row_num": 28,
+        "lines": [
+            "And I'm here just",
+            "just like I used to be",
+            "We were here in old days",
+            "with you with me",
+            "All my fears have gone",
+            "when you whisper to me",
+            "No matter how",
+            "near or far apart apart",
+            "When you feel so lonely",
+            "Have you completely erased me",
+            "I'll be here to shelter you",
+            "from your memories from yours",
+            "When you feel so lonely",
+            "While I still feel your breeze",
+            "I'll be here here for you",
+            "holding your hands again",
+            "holding your hands",
+            "If I could fly above the clouds",
+            "like all the birds",
+            "And I could hold you for a while",
+            "to let you feel my pulse",
+            "Still here all alone",
+            "My whole life",
+            "and all my heart",
+            "You're my whole life",
+            "and all my heart",
+            "And I'm here home home",
+            "With you With me"
+        ]
+    }
+}

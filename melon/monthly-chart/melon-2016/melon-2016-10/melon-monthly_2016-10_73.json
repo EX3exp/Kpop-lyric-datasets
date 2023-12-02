@@ -1,0 +1,48 @@
+{
+    "info": [
+        {
+            "year": 2016,
+            "month": 10,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "30007157",
+    "song_name": "Love Is Over",
+    "album": "구르미 그린 달빛 OST Part.9",
+    "release_date": "2016.09.28",
+    "artist": "백지영",
+    "genre": "발라드, 국내드라마",
+    "lyric_writer": "개미",
+    "composer": "개미",
+    "arranger": "베이지",
+    "lyrics": {
+        "row_num": 22,
+        "lines": [
+            "흐려진 하늘 먹구름 사이로",
+            "쏟아지는 저 빗물",
+            "내 볼 위로 내리면",
+            "참아왔었던 눈물이 터져",
+            "이제는 끝이겠지 이제는",
+            "Love is over Love is over",
+            "Love is over 내 맘을 때려",
+            "가슴속에 멍이 들어도 끝인 걸",
+            "무슨 말로도 위로 할 수 없어",
+            "내 가슴이 망가져",
+            "우두커니 이곳에",
+            "언제쯤이면 놓을 수 있을까",
+            "미련한 이 기다림 지겨워",
+            "Love is over Love is over",
+            "Love is over 내 맘을 때려",
+            "가슴속에 멍이 들어도 끝인 걸",
+            "점점 어두워지는",
+            "쓸쓸한 이 길 위에",
+            "길어진 그림자 갈 곳이 없나봐",
+            "Love is over Love is over",
+            "Love is over 내 맘을 때려",
+            "가슴속에 멍이 들어도 끝이야"
+        ]
+    }
+}

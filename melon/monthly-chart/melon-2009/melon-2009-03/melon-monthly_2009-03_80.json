@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2009,
+            "month": 3,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": null,
+    "song_name": "흑기사",
+    "album": "New Era",
+    "release_date": "",
+    "artist": "업타운",
+    "genre": "",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

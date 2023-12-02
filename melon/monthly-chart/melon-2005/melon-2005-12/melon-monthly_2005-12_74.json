@@ -1,0 +1,53 @@
+{
+    "info": [
+        {
+            "year": 2005,
+            "month": 12,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "1023720",
+    "song_name": "Have Yourself A Merry Little Christmas",
+    "album": "Gift",
+    "release_date": "2005.11.24",
+    "artist": "빅마마",
+    "genre": "R&B/Soul",
+    "lyric_writer": "권석홍",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 27,
+        "lines": [
+            "Have yourself a merry little Christmas",
+            "Let your heart be light",
+            "From now on",
+            "your troubles will be out of sight",
+            "",
+            "Have yourself a merry little Christmas",
+            "Make the yuletide gay",
+            "From now on",
+            "your troubles will be miles away",
+            "",
+            "Here we are as in olden days",
+            "Happy golden days of yore",
+            "",
+            "Faithful friends who are dear to us",
+            "Gather near to us, once more ooh",
+            "",
+            "Through the years we all will be together",
+            "If the fates allow",
+            "hang on shining star upon the highest bow",
+            "And have yourself",
+            "a merry little christmas now",
+            "",
+            "Through the years we all will be together",
+            "If the fates allow",
+            "hang on shining star upon the highest bow",
+            "And have yourself",
+            "a merry little christmas now -"
+        ]
+    }
+}

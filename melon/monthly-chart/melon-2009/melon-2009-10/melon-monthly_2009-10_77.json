@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2009,
+            "month": 10,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": null,
+    "song_name": "사랑할 수도 미워할 수도",
+    "album": "드라뮤지끄 Vol.1 (Part.1)",
+    "release_date": "",
+    "artist": "애즈원",
+    "genre": "",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

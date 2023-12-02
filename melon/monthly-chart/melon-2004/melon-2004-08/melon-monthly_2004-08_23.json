@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2004,
+            "month": 8,
+            "rank": 23,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": null,
+    "song_name": "Growing Up",
+    "album": "개한민국",
+    "release_date": "",
+    "artist": "넥스트",
+    "genre": "",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "info": [
+        {
+            "year": 2001,
+            "month": 8,
+            "rank": 27,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "20951",
+    "song_name": "Crying",
+    "album": "Bandlife",
+    "release_date": "2001.06",
+    "artist": "플라워",
+    "genre": "록/메탈",
+    "lyric_writer": "이상명",
+    "composer": "하해룡",
+    "arranger": "플라워",
+    "lyrics": {
+        "row_num": 24,
+        "lines": [
+            "crying 초라한 나를 위로하지마",
+            "날 그냥 놓아줘",
+            "그래 비참한 나를 기다리지마",
+            "날 미워 해야 돼",
+            "don't cry",
+            "영원히 날 죽었다 생각해",
+            "그렇게 떠나가 워",
+            "crying",
+            "다시 네게 돌아가지 않아",
+            "끝난거야",
+            "이젠 don't cry",
+            "crying",
+            "미칠 것 같아",
+            "너는 혼자서 울고만 있는데",
+            "don't cry",
+            "나를 위해 넌 다시 시작해",
+            "나처럼 울어선 안돼",
+            "crying",
+            "먼 훗날에 우연히 만나면",
+            "외면하길 바래",
+            "don't cry",
+            "다시 네게 돌아가지 않아",
+            "끝난거야 crying",
+            "crying"
+        ]
+    }
+}

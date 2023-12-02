@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2011,
+            "month": 9,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "3534949",
+    "song_name": "Am I? (Feat. Bizzy, B-Free)",
+    "album": "AsuRa BalBalTa",
+    "release_date": "2011.08.25",
+    "artist": "리쌍",
+    "genre": "랩/힙합",
+    "lyric_writer": "개리",
+    "composer": "비지 (Bizzy)",
+    "arranger": "비프리 (B-Free)",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

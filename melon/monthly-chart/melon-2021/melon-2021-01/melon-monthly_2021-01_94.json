@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2021,
+            "month": 1,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "32182337",
+    "song_name": "사랑은(Feat.원슈타인)",
+    "album": "나의슬픔(My Sadness)",
+    "release_date": "2019.11.18",
+    "artist": "마미손",
+    "genre": "랩/힙합",
+    "lyric_writer": "마미손",
+    "composer": "원슈타인",
+    "arranger": "권한얼",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

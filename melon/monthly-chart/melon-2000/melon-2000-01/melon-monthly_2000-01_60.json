@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2000,
+            "month": 1,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "1786642",
+    "song_name": "날 잊어 1",
+    "album": "In Stardom Version 2.0",
+    "release_date": "1999.08",
+    "artist": "조pd (ZoPD)",
+    "genre": "랩/힙합",
+    "lyric_writer": "조pd (ZoPD)",
+    "composer": "조pd (ZoPD)",
+    "arranger": "조pd (ZoPD)",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

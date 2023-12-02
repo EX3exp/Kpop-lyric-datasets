@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2011,
+            "month": 2,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": null,
+    "song_name": "Born This Way",
+    "album": "Born This Way",
+    "release_date": "",
+    "artist": "Lady Gaga",
+    "genre": "",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

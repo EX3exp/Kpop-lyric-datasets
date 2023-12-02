@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2000,
+            "month": 10,
+            "rank": 36,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": null,
+    "song_name": "나만의 사랑 ~ Just My Love ~",
+    "album": "Another 8000",
+    "release_date": "",
+    "artist": "김원준",
+    "genre": "",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "info": [
+        {
+            "year": 2006,
+            "month": 1,
+            "rank": 4,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "993956",
+    "song_name": "Bye Bye Bye",
+    "album": "MondayKiz First One…Bye",
+    "release_date": "2005.11.03",
+    "artist": "먼데이 키즈 (Monday Kiz)",
+    "genre": "발라드",
+    "lyric_writer": "황성진",
+    "composer": "최갑원",
+    "arranger": "김도훈 (RBW)",
+    "lyrics": {
+        "row_num": 15,
+        "lines": [
+            "너를 사랑한 기억 하나까지도",
+            "너를 보내는 아픈 내맘까지도",
+            "지우려 해도 지울 수가 없어서",
+            "나는 Cry Cry Cry Cry Cry",
+            "",
+            "모자란 나를 살아가게 해주고",
+            "난 그런 너를 세상끝에 놔두고",
+            "그런 너에게 내가 할수 있는 말",
+            "이젠 Bye Bye Bye Bye Bye",
+            "",
+            "내가 아파도(my mind)",
+            "내가 울어도(my crying)",
+            "보고 싶은 널 찾아 헤매도",
+            "(looking for the my love)",
+            "나를 놓와줘 나를 버려줘"
+        ]
+    }
+}

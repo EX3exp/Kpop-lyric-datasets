@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "year": 2007,
+            "month": 11,
+            "rank": 50,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": null,
+    "song_name": "그만하자",
+    "album": "Time",
+    "release_date": "",
+    "artist": "정재욱",
+    "genre": "",
+    "lyric_writer": "",
+    "composer": "",
+    "arranger": "",
+    "lyrics": {
+        "row_num": 1,
+        "lines": [
+            ""
+        ]
+    }
+}

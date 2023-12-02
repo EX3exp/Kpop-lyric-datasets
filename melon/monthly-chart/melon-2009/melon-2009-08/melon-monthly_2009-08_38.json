@@ -1,0 +1,39 @@
+{
+    "info": [
+        {
+            "year": 2009,
+            "month": 8,
+            "rank": 38,
+            "type": "월별차트",
+            "website": "Melon"
+        },
+        ""
+    ],
+    "song_id": "2222748",
+    "song_name": "Everyday (Feat. 길 Of 리쌍, Sean2slow)",
+    "album": "BMK & Good Fellaz",
+    "release_date": "2009.07.14",
+    "artist": "BMK",
+    "genre": "발라드",
+    "lyric_writer": "황성진",
+    "composer": "정희섭",
+    "arranger": "길",
+    "lyrics": {
+        "row_num": 13,
+        "lines": [
+            "날이선 바람속에 안식을 찾고",
+            "마지막 한숨에 모둘 털어내",
+            "찬란한 젊은날의",
+            "추억 하나가 everyday 힘이되어",
+            "거친 세상에 죽어간",
+            "수많은 꿈과 살아온 흔적만 남은 난",
+            "더 이상 살아갈 이유도",
+            "작은힘도 없는걸 또 지쳐가",
+            "ima switch gear now",
+            "speed up to fast lane",
+            "마음을 비워 가볍게",
+            "im on my express way",
+            "what u sayin' is not okay"
+        ]
+    }
+}
