@@ -18,7 +18,7 @@ from utils import data_parser
 your_dict = data_parser.get_dict(2023)
 ```
 
-### 🤔 B. Getting whole data from 2010 to 2022, into Dataframe(Pandas)
+### 🤔 B. Getting whole data from 2010 to 2022, into Pandas.DataFrame
 ```Python
 from utils import data_parser
 your_dataframe = data_parser.get_df(2010, 2022)
